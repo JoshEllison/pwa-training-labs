@@ -17,6 +17,13 @@ html {
   background-color: #FF9800;
 }
 
+.banner {
+  align-content: center;
+  display: none;
+  justify-content: center;
+  width: 100%;
+}
+
 body {
   align-items: center;
   background-color: white;
